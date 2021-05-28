@@ -1,0 +1,39 @@
+.jumbotron {
+  padding-top :6rem;
+  background-color: #e2edff;
+}
+#content{
+  background-color: #e2edff;
+}
+section{
+  padding-top: 5rem;
+}
+.tengah{
+  background-position:center;
+  width:auto;
+  height:auto;       
+}
+table{
+background: rgb(5, 163, 255);
+margin:auto;
+}
+body, h1, h2, p, a,td, span {
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+}
+.wrap {
+  background-color:rgb(47, 0, 255);
+  width: auto;
+  color:black;
+  margin: 20px auto;
+  padding:15px;
+}
+.icon {
+  padding:5px;
+  text-align: center;
+  text-align: left;
+}
+span {
+  color: maroon;
+}
+
